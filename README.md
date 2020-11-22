@@ -1,8 +1,9 @@
 # Data_cleaning..
-#Data_cleaning of the messiest dataset I have ever come across
+
 
 ## Date sources: [Sharkattack](https://www.kaggle.com/alinedebenath/global-shark-attacks)
 
+#Data_cleaning of the messiest dataset.
 
 * The first thing I did was to check for the details of the dataset, like getting the shape, the null values per column.
 * Checked the similarity in columns to know which one to drop, also checked for the percentage of missing values in columns if they are more than 50% so as to drop them, after this I had to drop the irrelevance columns.
